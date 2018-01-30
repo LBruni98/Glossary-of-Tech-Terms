@@ -56,10 +56,14 @@ A process followed in caluclations or other solutions, run mainly by a computer.
 * Object Oriented - This paradigm is based on objects that contain data in fields, rather than actions and logic. Both functions and data make up an object and can be inherited from other objects the programmer creates.
 * Event Driven - This paradigm allows for the program to react towards user input. Specific inputs such as clicking on a button or typing in text and used for different functions to operate.
 
-### Debugging Process and Debugging Facilities
-#### Background
+#### Coding Standards
+
+#### IDE
+
+#### Debugging Process and Debugging Facilities
+##### Background
 Debugging is a very useful tool when it comes to finalizing a program and making it both stable and accessible to the public. Debugging works by reading through the lines of code and from error codes delivered to the IDE's console, the developer can use these codes to generally see where the mistakes and problems are. IDE's can offer limited to advanced debuggers with a handful of tools, but most often than not, they would result to an actual debugger, different to an IDE as the tools can assist in tracking variables and breaking down code.
 
 For programs, this means that the initial program can be mended quicker rather than looking at every individual line of code or just relying solely on error codes. This may be fine for smaller projects but debugging can help with larger projects, even for complex programs.
 
-#### Process and Facilities
+##### Process and Facilities
