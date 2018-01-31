@@ -57,6 +57,7 @@ A process followed in caluclations or other solutions, run mainly by a computer.
 * Event Driven - This paradigm allows for the program to react towards user input. Specific inputs such as clicking on a button or typing in text and used for different functions to operate.
 
 #### Coding Standards
+Coding Standards are a set of guidelines for a developer to follow in order to create high quality code. These guidelines help a developer write in a specific way that best suits that language. It works because developers would have written in their own style when others would write their code in a different style; different indentation, naming of functions and commenting. If in a workplace environment, setting a standard for coders would help, so to improve readability of the code and helps with editing and modifying.
 
 #### IDE
 
