@@ -43,6 +43,8 @@ Time-boxed event of 8 hours, or less, to start a Sprint. It serves for the Scrum
 
 An event after the sprint that takes around 4 hours or less to conclude the work in a sprint and to inspect the product of a sprint.
 
+#### How to reduce vulnerabilities in a system during development
+
 ### Programming Terms
 1. Algorithm
 
