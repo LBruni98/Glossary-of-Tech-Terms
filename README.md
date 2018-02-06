@@ -61,7 +61,7 @@ Coding Standards are a set of guidelines for a developer to follow in order to c
 
 #### IDE
 An IDE (Integrated Development Environment) is an application that provides a user with tools for writing up and testing software.
-
+![IDE](https://github.com/LBruni98/Glossary-of-Tech-Terms/blob/master/Capture.PNG)
 ##### Analysis
 A common feature that an IDE has is something called syntax highlighting. What this does is that it provides a colour scheme to support readibility and writing of the code, to differentiate the categories in a programming language that the IDE supports, with colours for variables, conditional statements, strings, comments, etc.
 
