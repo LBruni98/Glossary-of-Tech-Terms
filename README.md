@@ -62,7 +62,6 @@ Coding Standards are a set of guidelines for a developer to follow in order to c
 #### IDE
 
 #### Debugging Process and Debugging Facilities
-##### Background
 Debugging is a very useful tool when it comes to finalizing a program and making it both stable and accessible to the public. Debugging works by reading through the lines of code and from error codes delivered to the IDE's console, the developer can use these codes to generally see where the mistakes and problems are. IDE's can offer limited to advanced debuggers with a handful of tools, but most often than not, they would result to an actual debugger, different to an IDE as the tools can assist in tracking variables and breaking down code.
 
 For programs, this means that the initial program can be mended quicker rather than looking at every individual line of code or just relying solely on error codes. This may be fine for smaller projects but debugging can help with larger projects, even for complex programs.
