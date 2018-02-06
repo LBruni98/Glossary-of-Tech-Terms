@@ -60,7 +60,14 @@ A process followed in caluclations or other solutions, run mainly by a computer.
 Coding Standards are a set of guidelines for a developer to follow in order to create high quality code. These guidelines help a developer write in a specific way that best suits that language. It works because developers would have written in their own style when others would write their code in a different style; different indentation, naming of functions and commenting. If in a workplace environment, setting a standard for coders would help, so to improve readability of the code and helps with editing and modifying.
 
 #### IDE
+An IDE (Integrated Development Environment) is an application that provides a user with tools for writing up and testing software.
 
+##### Analysis
+A common feature that an IDE has is something called syntax highlighting. What this does is that it provides a colour scheme to support readibility and writing of the code, to differentiate the categories in a programming language that the IDE supports, with colours for variables, conditional statements, strings, comments, etc.
+
+
+
+##### Use Against the Development of apps not using an IDE
 #### Debugging Process and Debugging Facilities
 Debugging is a very useful tool when it comes to finalizing a program and making it both stable and accessible to the public. Debugging works by reading through the lines of code and from error codes delivered to the IDE's console, the developer can use these codes to generally see where the mistakes and problems are. IDE's can offer limited to advanced debuggers with a handful of tools, but most often than not, they would result to an actual debugger, different to an IDE as the tools can assist in tracking variables and breaking down code.
 
