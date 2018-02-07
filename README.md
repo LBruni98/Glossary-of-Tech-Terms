@@ -61,13 +61,23 @@ Coding Standards are a set of guidelines for a developer to follow in order to c
 
 #### IDE
 An IDE (Integrated Development Environment) is an application that provides a user with tools for writing up and testing software.
+
 ![IDE](https://github.com/LBruni98/Glossary-of-Tech-Terms/blob/master/Capture.PNG)
+
 ##### Analysis
 A common feature that an IDE has is something called syntax highlighting. What this does is that it provides a colour scheme to support readibility and writing of the code, to differentiate the categories in a programming language that the IDE supports, with colours for variables, conditional statements, strings, comments, etc.
 
+Another feature that is common in most IDEs are libraries. These allow for pre-set code already organized in blocks to be used or re-used to reduce development time, rather than writing all the code in a single block, being unorganized and time consuming.
 
+A code editor or shell is included for the user to write, edit and save code documents. These editors also provide the user with quintessential tools to help them with writing; auto-completion where the program interprets what you may write; syntax checking, highlighting any errors and checking for any incorrect syntax use; and bracket matching, inputing any brackets where the user may have missed any and improving readibility of the code.
 
-##### Use Against the Development of apps not using an IDE
+##### Comparison of IDEs and Non-IDE Software
+An IDE is essentially a useful and easier method of writing and developing software no matter the language. It has a variety of features that can aid a developer in creating software, depending on the IDE in question. Writing a program without an IDE, such as a normal text editor, will only make the development harder and more time consuming, not to mention more problems arising and bugs being harder to fix. The benefits of IDEs outweigh using non-IDE alternatives that there is technically no reason to develop without having an IDE.
+
+In IDEs, formatting tools such as syntax highlighting, auto completing and bracket matching are prevalent in almost every IDE avaliable, increasing readability of the code being written and making it easier for others, including the user, to understand. In IDEs, these features can aid in creation of code, with code structure being made automatically and defining the functions easier, whereas non-IDE software, don't include these functions, having the user to organise the lines and structure the code for readibility themselves.
+
+IDEs and non-IDE software see both usage with more experienced programmers; using IDEs by enhancing their work or taking advantage of the features and using non-IDE software as they would get a suitable grasp of a chosen language or would even prefer the lack of features if they were to interfere with their work.
+
 #### Debugging Process and Debugging Facilities
 Debugging is a very useful tool when it comes to finalizing a program and making it both stable and accessible to the public. Debugging works by reading through the lines of code and from error codes delivered to the IDE's console, the developer can use these codes to generally see where the mistakes and problems are. IDE's can offer limited to advanced debuggers with a handful of tools, but most often than not, they would result to an actual debugger, different to an IDE as the tools can assist in tracking variables and breaking down code.
 
