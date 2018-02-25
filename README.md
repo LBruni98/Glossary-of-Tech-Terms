@@ -44,11 +44,11 @@ Time-boxed event of 8 hours, or less, to start a Sprint. It serves for the Scrum
 An event after the sprint that takes around 4 hours or less to conclude the work in a sprint and to inspect the product of a sprint.
 
 ### Programming Terms
-1. Algorithm
+##### 1. Algorithm
 
 A process followed in caluclations or other solutions, run mainly by a computer.
 
-2. Paradigms
+##### 2. Paradigms
 * Procedural - This paradigm is based on the concept of procedures or methods; sequences of commands to be executed. Procedures are mainly used in largeer projects, used by many programming languages and have the following benefits:
   - Reusability of code designed as procedures
   - Ease of following the logic
