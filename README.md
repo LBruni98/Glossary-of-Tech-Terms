@@ -56,6 +56,15 @@ A process followed in caluclations or other solutions, run mainly by a computer.
 * Object Oriented - This paradigm is based on objects that contain data in fields, rather than actions and logic. Both functions and data make up an object and can be inherited from other objects the programmer creates.
 * Event Driven - This paradigm allows for the program to react towards user input. Specific inputs such as clicking on a button or typing in text and used for different functions to operate.
 
+#### Process of Implementation
+The way to successfully implement this algorithm is to go at the tasks individually and that way, the whole process is ordered and each task can be fully realized.
+
+The first step to creating the program is to plan out what the initial steps for development; outlining the user stories and creating flowcharts and pseudo-code of the program, generally to understand how it will work and its layout.
+
+Next is to find the IDE and programming language applicable for the program; what will help with the development and what would best suit the program.
+
+Then would be to take the stories and create the program in accordance to the user stories laid out in planning. The program takes shape here and not developing is easier, rather than approaching the program in a huge epic. Along with easier development through individual tasks, the user can also test every individual part for easier testing and can easily understand the structure of the code.
+
 #### Coding Standards
 Coding Standards are a set of guidelines for a developer to follow in order to create high quality code. These guidelines help a developer write in a specific way that best suits that language. It works because developers would have written in their own style when others would write their code in a different style; different indentation, naming of functions and commenting. If in a workplace environment, setting a standard for coders would help, so to improve readability of the code and helps with editing and modifying.
 
