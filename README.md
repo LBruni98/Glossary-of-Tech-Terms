@@ -49,11 +49,15 @@ An event after the sprint that takes around 4 hours or less to conclude the work
 A process followed in caluclations or other solutions, run mainly by a computer.
 
 ##### 2. Paradigms
-* Procedural - This paradigm is based on the concept of procedures or methods; sequences of commands to be executed. Procedures are mainly used in largeer projects, used by many programming languages and have the following benefits:
+* Procedural - This paradigm is based on the concept of procedures or methods; sequences of commands to be executed. Procedures are mainly used in larger projects, used by many programming languages and have the following benefits:
   - Reusability of code designed as procedures
   - Ease of following the logic
   - Maintainability
+
+A procedure is a sequence of activities that are followed within a program to perform a frequently used operation. Procedural paradigms act on if something is needed, putting more importance on the things to be done and have their own scope and inputs/outputs, making them act like smaller programs. Modern programming languages are built on the principles of procedural paradigms.
+
 * Object Oriented - This paradigm is based on objects that contain data in fields, rather than actions and logic. Both functions and data make up an object and can be inherited from other objects the programmer creates.
+
 * Event Driven - This paradigm allows for the program to react towards user input. Specific inputs such as clicking on a button or typing in text and used for different functions to operate.
 
 #### Process of Implementation
