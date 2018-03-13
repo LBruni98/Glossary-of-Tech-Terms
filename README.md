@@ -44,21 +44,35 @@ Time-boxed event of 8 hours, or less, to start a Sprint. It serves for the Scrum
 An event after the sprint that takes around 4 hours or less to conclude the work in a sprint and to inspect the product of a sprint.
 
 ### Programming Terms
-##### 1. Algorithm
+#### 1. Algorithm
 
 A process followed in caluclations or other solutions, run mainly by a computer.
 
-##### 2. Paradigms
-* Procedural - This paradigm is based on the concept of procedures or methods; sequences of commands to be executed. Procedures are mainly used in larger projects, used by many programming languages and have the following benefits:
+#### 2. Paradigms
+##### Procedural
+This paradigm is based on the concept of procedures or methods; sequences of commands to be executed. Procedures are mainly used in larger projects, used by many programming languages and have the following benefits:
   - Reusability of code designed as procedures
   - Ease of following the logic
   - Maintainability
 
+###### Characteristics
 A procedure is a sequence of activities that are followed within a program to perform a frequently used operation. Procedural paradigms act on if something is needed, putting more importance on the things to be done and have their own scope and inputs/outputs, making them act like smaller programs. Modern programming languages are built on the principles of procedural paradigms.
 
-* Object Oriented - This paradigm is based on objects that contain data in fields, rather than actions and logic. Both functions and data make up an object and can be inherited from other objects the programmer creates.
+##### Object Oriented
+This paradigm is based on objects that contain data in fields, rather than actions and logic. Both functions and data make up an object and can be inherited from other objects the programmer creates. 
 
-* Event Driven - This paradigm allows for the program to react towards user input. Specific inputs such as clicking on a button or typing in text and used for different functions to operate.
+###### Characteristics
+Rather than procedure, its more orientated on its own data. Objects created will be used by it to implement data and these objects can communicate through functions. Enscapsulation is also present in this paradigm, where data is manipulated into a single unit, protecting it from external interference and misuse, which in languages like java are supported by classes and objects
+
+##### Event Driven
+This paradigm allows for the program to react towards user input. Specific inputs such as clicking on a button or typing in text and used for different functions to operate.
+
+###### Characteristics
+This paradigm is reliant on event handlers, a type of function that runs a certain action once a specific event is triggered. This paradigm is mainly visual, which ensures simplicity and ease of development. It's service orientated as well, meaning that it takes very little of the computer's processing power as to not slow down the computer and has services available on a network ensuring the code does not need to be rewritten each time.
+
+##### 2.1 Relationships Between Paradigms
+Each paradigm is more towards creation in order to create a full program, but each are different in how they function. The Procedural paradigm creates procedures, functions that run in order to create a program without being provoked and event-driven paradigms also create these features. The difference between the two here are that procedural paradigms are created and run instantaneously, whereas event-driven paradigms only run once an event has occurred, such as a click of a mouse or button.
+The object-oriented paradigm mainly creates objects via classes compared to the other two paradigms where they create functions. The objects created are used mainly to solve soultions, objects communicate via functions to help achieve the solution rather than relying on an event.
 
 #### Process of Implementation
 The way to successfully implement this algorithm is to go at the tasks individually and that way, the whole process is ordered and each task can be fully realized.
@@ -97,3 +111,7 @@ Debugging is a very useful tool when it comes to finalizing a program and making
 For programs, this means that the initial program can be mended quicker rather than looking at every individual line of code or just relying solely on error codes. This may be fine for smaller projects but debugging can help with larger projects, even for complex programs.
 
 The debugging process begins when the code the user writes is completed and is continued in stages, being combined with other pieces of code and the product coming together. Errors are detected once the code is run through a computer program, mainly an IDE and once it has been identified, then it is necessary to track down the error in the code. Looking at a logger mainly is a good way of finding the code and using either a standalone debugger or the IDE's built in debugger to track when and where the bug strikes and use said debugger to assist in fixing the bug. The bugs are fixed along with assessing that no newer bugs have appeared.
+
+##### Debugging Tools
+* Syntax Highlighting
+* Console
