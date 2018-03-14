@@ -113,5 +113,5 @@ For programs, this means that the initial program can be mended quicker rather t
 The debugging process begins when the code the user writes is completed and is continued in stages, being combined with other pieces of code and the product coming together. Errors are detected once the code is run through a computer program, mainly an IDE and once it has been identified, then it is necessary to track down the error in the code. Looking at a logger mainly is a good way of finding the code and using either a standalone debugger or the IDE's built in debugger to track when and where the bug strikes and use said debugger to assist in fixing the bug. The bugs are fixed along with assessing that no newer bugs have appeared.
 
 ##### Debugging Tools
-* Syntax Highlighting
+* Syntax Highlighting - 
 * Console
