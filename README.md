@@ -117,4 +117,9 @@ The debugging process begins when the code the user writes is completed and is c
 
 * Step into - This executes the code one line at a time and checks each line as if it were "stepping into" the code, no matter what functions step in and out of.
 
-* Step out - 
+* Step out - This tool executes the remaining lines of code in a function and breaks when the return function has been completed. This works in tandem with the step in tool
+
+* Changing variable values - Some IDE debuggers allow you to change the values of variables. This is to test how the program handles a setting or speed through a loop. Because it is done in real time, it saves time than having to stop and restart the debugging process.
+
+* Realtime editing - In some IDEs, you can also edit code while the program is running, allowing the developer to view real time results that they can change on the fly. It saves alot of time and allows for experimentation of different solutions at any time during debugging.
+
