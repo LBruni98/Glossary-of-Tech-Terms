@@ -113,6 +113,8 @@ For programs, this means that the initial program can be mended quicker rather t
 The debugging process begins when the code the user writes is completed and is continued in stages, being combined with other pieces of code and the product coming together. Errors are detected once the code is run through a computer program, mainly an IDE and once it has been identified, then it is necessary to track down the error in the code. Looking at a logger mainly is a good way of finding the code and using either a standalone debugger or the IDE's built in debugger to track when and where the bug strikes and use said debugger to assist in fixing the bug. The bugs are fixed along with assessing that no newer bugs have appeared.
 
 ##### Debugging Tools
-* Syntax Highlighting - Syntax Highlighting is a feature in most IDEs in which gives a colour to certain categories in a programming language. It does help with the readibility of the code for developers, but what it also does is help check for errors. For instance, if there is a missing delimiter, the highlighting will shift and this makes it a clear signal that there is an error because of syntax.
-
 * Console - The console is another feature in most common IEs that allows input/output and interaction of a program. When executed the program tends to run here. If an error is present, instead of not executing, an error will be written out. What makes the console helpful for finding errors is that line number will be revealed as to where said error is occurring and will note down what could be a possible cause, such as missing characters or undefined variables
+
+* Step into - This executes the code one line at a time and checks each line as if it were "stepping into" the code, no matter what functions step in and out of.
+
+* Step out - 
